@@ -1,9 +1,9 @@
 # This is PAIH git repository.
-# Technology used pyspark, python, tenserflow, Hadoop, C.
-#Project by\
+# Technology used pyspark, python, tensorflow, Hadoop, C.
+# Project by\
  	Prateek Gupta\
  	Akshay Kamloo\
  	Mayur Kadam\
  	Shreyas Malgave\
-#Guided by\
+# Guided by\
  	Prof. Sushant Gote
