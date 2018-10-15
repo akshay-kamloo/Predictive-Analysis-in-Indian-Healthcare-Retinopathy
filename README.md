@@ -5,4 +5,4 @@
  	Mayur Kadam\
  	Shreyas Malgave\
  Guided by\
- 	Prof. Sushant Gote\
+ 	Prof. Sushant Gote
