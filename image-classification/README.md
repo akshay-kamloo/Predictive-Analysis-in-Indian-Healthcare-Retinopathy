@@ -1,1 +1,1 @@
-# This forlder contains codes and sample data-set for image classification
+# This folder contains codes and sample data-set for image classification
